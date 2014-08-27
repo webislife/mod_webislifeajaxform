@@ -1,14 +1,13 @@
 <?php 
 /*
 # ------------------------------------------------------------------------
-# wlensions for Joomla 2.5.x - Joomla 3.x
+# Ajax contact form for Joomla 2.5.x 
 # ------------------------------------------------------------------------
-# Copyright (C) 2011-2014 wl-Joom.com. All Rights Reserved.
-# @license - PHP files are GNU/GPL V2.
-# Author: wl-Joom.com
-# Websites:  http://www.wl-joom.com 
-# Date modified: 08/04/2014 - 13:00
-# ------------------------------------------------------------------------
+# Copyright (C) webislife.ru
+# @license - FREE
+# Author: webislife.ru
+# Websites:  http://webislife.ru
+# ------------------------------------------------------------------------ 
 */
 
 // no direct access
