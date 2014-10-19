@@ -12,7 +12,6 @@
 
 // no direct access
 defined('_JEXEC') or die;
-error_reporting(-1);
 
 $document 					= JFactory::getDocument();
 $ad_form_mails				= $params->get('ad_ajax_form_mail', '');
